@@ -1,0 +1,1 @@
+The purpose of this application is to use four different ML models to predict the success rate of a new SpaceX Falcon 9 rocket launch looking at the previous launches.
